@@ -1,5 +1,5 @@
-import tkinter
 from tkinter import *
+import tkinter
 from tkinter import filedialog
 import random
 import os
